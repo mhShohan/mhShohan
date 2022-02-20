@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **MongoDB, Express.js, React, Node.js**
 
-- 📫 How to reach me **mehdihasanshohan25@gmail.com**
-
 - ⚡ Fun fact **I Love to Play Guitar...**
 
 <h3 align="left">Connect with me:</h3>
