@@ -1,29 +1,59 @@
-<h1 align="center">Hi 👋, This is Mehdi Hasan Shohan</h1>
-<h3 align="center">A passionate self-taught programmer. I'm learning from the open-source community and trying to contribute to the open source community. I started my programming journey about 2 years ago. I am very curious about web technologies and I'm learning several technologies and comfortable with working with these technologies. Currently, I am working with MERN Stack development and practicing on personal projects. I'm comfortable in Javascript, Node.js, Express.js, RestAPIs, JWT, React, Context API, Bootstrap, Material UI, Styled Components, SASS, etc...!!!</h3>
+<!-- ![mhShohan Banner](https://raw.githubusercontent.com/mhShohan/mhShohan/master/assets/mhShohan.jpg) -->
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! This is `Mehdi Hasan Shohan`</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Mehdi Hasan Shohan -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about programming, software development, MERN Stack Development.\
+💬 &nbsp;Feel free to reach out to me for discuss about latest technologies and Open Source Contribution.\
+✉️ &nbsp;You can shoot me an email at `mehdihasanshohan25@gmail.com`, I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1DL0aX9fhYQILhP40z1j0vfPzb8Ycy5DP/view) or [Portfolio](https://mhshohan.netlify.app/) for more details about me. I'm open to feedback and suggestions!\
+💬 Ask me about **MongoDB, Express.js, React, Node.js**\
+⚡ Fun fact: **I Love to Play Guitar...**
+
+<img width="400px" alt="Night Coding" src="./assets/Right_side.gif" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshohan&label=Profile%20views&color=0e75b6&style=flat" alt="mhshohan" /> </p>
 
-- 🔭 I’m currently working on [My Portfoilio](https://mhshohan.netlify.app/)
+### 🛠 &nbsp;Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://mhshohan.netlify.app/](https://mhshohan.netlify.app/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NEXT.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=redux)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![PostMan](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- 🌱 I’m currently learning **MERN Stack Development**
+### ⚙️ &nbsp;GitHub Analytics
 
-- 💬 Ask me about **MongoDB, Express.js, React, Node.js**
-
-- ⚡ Fun fact **I Love to Play Guitar...**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/mehdi-hasan-shohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-hasan-shohan" height="30" width="40" /></a>
-<a href="https://twitter.com/mehdi_hasan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehdi_hasan17" height="30" width="40" /></a>
-<a href="https://fb.com/mshohan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mshohan17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mhshohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhshohan" height="30" width="40" /></a>
-<a href="https://codepen.io/mhshohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mhshohan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mhshohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mhshohan" height="30" width="40" /></a>
-
+<a href="https://github.com/mhShohan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhShohan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhShohan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mehdi-hasan-shohan/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mhshohan17"><img src="https://img.shields.io/badge/-Facebook-16499c?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/mehdi_hasan17"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/mhshohan"><img src="https://img.shields.io/badge/-LeetCode-10918f?style=flat&logo=leetcode&logoColor=white"/></a>
+
+</p>
