@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about programming, software development, MERN Stack Development.\
-💬 &nbsp;Feel free to reach out to me for discuss about latest technologies and Open Source Contribution.\
-✉️ &nbsp;You can shoot me an email at `mehdihasanshohan25@gmail.com`, I'll try to respond as soon as I can.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp; I'm on track to learning more about programming, software development, and MERN Stack Development.\
+💬 &nbsp; Feel free to reach out to me to discuss about latest technologies and open-source Contributions.\
+✉️ &nbsp; You can shoot me an email at `mehdihasanshohan25@gmail.com`, and I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1DL0aX9fhYQILhP40z1j0vfPzb8Ycy5DP/view) or [Portfolio](https://mhshohan.netlify.app/) for more details about me. I'm open to feedback and suggestions!\
 💬 Ask me about **MongoDB, Express.js, React, Node.js**\
 ⚡ Fun fact: **I Love to Play Guitar...**
