@@ -53,7 +53,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mehdi-hasan-shohan/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mhshohan17"><img src="https://img.shields.io/badge/-Facebook-16499c?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/mehdi_hasan17"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/mh_ShohaN17"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/mhshohan"><img src="https://img.shields.io/badge/-LeetCode-10918f?style=flat&logo=leetcode&logoColor=white"/></a>
 
 </p>
