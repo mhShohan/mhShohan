@@ -48,7 +48,7 @@
 </a>
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
