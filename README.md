@@ -47,6 +47,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhShohan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&background=0D1117&stroke=35A29F&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF)]
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
