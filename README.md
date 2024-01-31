@@ -47,7 +47,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhShohan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F)](https://git.io/streak-stats)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
