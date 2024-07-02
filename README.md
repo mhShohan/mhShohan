@@ -1,37 +1,37 @@
-<!-- ![mhShohan Banner](https://raw.githubusercontent.com/mhShohan/mhShohan/master/assets/mhShohan.jpg) -->
+<img alt="Night Coding" src="./assets/github-header-image.png" width='100%' align="center"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! This is `Mehdi Hasan Shohan`</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Mehdi Hasan Shohan -->
+### A passionate full stack developer specializing in MERN/PERN stack technologies. Experienced in building responsive and scalable web applications, with a keen interest in learning and implementing the latest web development trends. Enthusiastic about contributing to innovative projects and collaborating with talented teams.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like to explore new technologies and develop fullstack web application.\
 🌱 &nbsp; I'm on track to learning more about programming, software development, and MERN Stack Development.\
 💬 &nbsp; Feel free to reach out to me to discuss the latest technologies and open-source Contributions.\
-✉️ &nbsp; You can email me at `mehdihasanshohan25@gmail.com`, and I'll try to respond as soon as possible.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1DL0aX9fhYQILhP40z1j0vfPzb8Ycy5DP/view) or [Portfolio](https://mhshohan.netlify.app/) for more details about me. I'm open to feedback and suggestions!\
-💬 Ask me about **MongoDB, Express.js, React, Node.js**\
-⚡ Fun fact: **I Love to Play Guitar...**
-
-<img width="400px" alt="Night Coding" src="./assets/Right_side.gif" align="right"/>
+✉️ &nbsp; You can email me at **mehdihasanshohan25@gmail.com**, and I'll try to respond as soon as possible.\
+📄 &nbsp; Please have a look at my **[Resume](https://drive.google.com/file/d/1DL0aX9fhYQILhP40z1j0vfPzb8Ycy5DP/view)** or **[Portfolio](https://mhshohan.vercel.app/)** for more details about me. I'm open to feedback and suggestions!\
+💬 &nbsp; Ask me about **TypeScript, JavaScript, Express.js, Node.js, MongoDB, PostgresSQL, React, Next.js, Redux-toolkit**\
+⚡ &nbsp; Fun fact: **I Love to Play Guitar...**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshohan&label=Profile%20views&color=0e75b6&style=flat" alt="mhshohan" /> </p>
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=blue)\
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=red)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=blue)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NEXT.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=redux)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![PostMan](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Docker](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
@@ -56,8 +56,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mehdi-hasan-shohan/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/mhshohan17"><img src="https://img.shields.io/badge/-Facebook-16499c?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/mhShohan25"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://gitlab.com/mhShohan"><img src="https://img.shields.io/badge/-GitLab-973131?style=flat&logo=gitlab&logoColor=white"/></a>
 <a href="https://leetcode.com/mhshohan"><img src="https://img.shields.io/badge/-LeetCode-10918f?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.facebook.com/mhshohan17"><img src="https://img.shields.io/badge/-Facebook-16499c?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/mhShohan25"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=x&logoColor=white"/></a>
 
 </p>
