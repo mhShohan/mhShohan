@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/github-header-image.png" width='100%' align="center"/>
+## <img alt="Night Coding" src="./assets/cover.jpeg" width='100%' align="center"/>
 
 **_A passionate full-stack developer specializing in MERN/PERN stack technologies. Experienced in building responsive and scalable web applications, with a keen interest in learning and implementing the latest web development trends. Enthusiastic about contributing to innovative projects and collaborating with talented teams. My technical skills include TypeScript and JavaScript for programming, MongoDB and PostgreSQL for databases, and Node.js with Express.js for backend development. On the front end, I'm proficient with React, Next.js, Redux-toolkit, and various UI libraries like Material-UI, TailwindCSS, and Ant Design. As a continuous learner, I'm always excited to explore new technologies and methodologies in the ever-evolving web development landscape._**
 
